@@ -6,170 +6,170 @@
       "title": "Dicklesworthstone/destructive_command_guard",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "excerpt": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "meta": "Rust · ★ 3,398 · 🍴 125 · 📈 444 stars today",
+      "meta": "Rust · ★ 3,415 · 🍴 125 · 📈 444 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Destructive Command Guard (dcg) 是一个安全工具，阻止 AI 代理执行危险的 git 和 shell 命令，防止误操作导致数据丢失或系统损坏。适用于需要限制自动化脚本行为的安全敏感场景。"
+      "summary": "Destructive Command Guard (dcg) 是一款用于阻止 agent 执行危险 git 和 shell 命令的安全工具，防止误操作导致数据丢失或系统破坏。"
     },
     {
       "sourceId": "github-trending",
       "title": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "excerpt": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "meta": "TypeScript · ★ 8,090 · 🍴 993 · 📈 210 stars today",
+      "meta": "TypeScript · ★ 8,091 · 🍴 993 · 📈 210 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "DesktopCommanderMCP 是专为 Claude 设计的 MCP 服务器，提供终端控制、文件搜索和差异编辑能力，让 Claude 能直接操作本地文件系统。适合需要编写或修改代码的开发者。"
+      "summary": "DesktopCommanderMCP 是为 Claude 提供的 MCP 服务器，赋予其终端控制、文件系统搜索和差异文件编辑能力，适合需要借助 AI 进行系统操作的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "excerpt": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "meta": "Python · ★ 20,995 · 🍴 3,662 · 📈 768 stars today",
+      "meta": "Python · ★ 21,002 · 🍴 3,662 · 📈 768 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Vibe-Trading 是一个个人交易代理工具，利用 AI 技术辅助用户进行投资决策。它分析市场数据并生成交易建议，适合散户投资者或金融爱好者使用。"
+      "summary": "Vibe-Trading 是一款个人交易 agent，利用 AI 技术辅助用户进行投资决策，适合量化交易爱好者或个人投资者。"
     },
     {
       "sourceId": "github-trending",
       "title": "PrefectHQ/prefect",
       "url": "https://github.com/PrefectHQ/prefect",
       "excerpt": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
-      "meta": "Python · ★ 23,273 · 🍴 2,403 · 📈 66 stars today",
+      "meta": "Python · ★ 23,274 · 🍴 2,403 · 📈 66 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Prefect 是一个用 Python 编写的工作流编排框架，用于构建弹性数据管道。它提供任务调度、重试、监控功能，解决数据工程师在处理复杂 ETL 流程时的可靠性和可观测性问题。"
+      "summary": "Prefect 是一个 Python 工作流编排框架，用于构建弹性的数据管道，支持任务调度、重试和监控，适合数据工程师处理复杂 ETL 流程。"
     },
     {
       "sourceId": "github-trending",
       "title": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "excerpt": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "meta": "Python · ★ 118,989 · 🍴 17,684 · 📈 408 stars today",
+      "meta": "Python · ★ 119,004 · 🍴 17,687 · 📈 408 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Awesome LLM Apps 收集了 100 多个可直接运行的 AI Agent 和 RAG 应用示例，涵盖对话、搜索、自动化等场景。开发者可以克隆、定制并快速部署，用于学习和原型开发。"
+      "summary": "Awesome LLM Apps 汇集了 100 多个可直接运行的 AI Agent 和 RAG 应用，支持克隆、定制和部署，适合快速搭建 LLM 驱动的实用工具。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "excerpt": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "meta": "Jupyter Notebook · ★ 48,633 · 🍴 5,746 · 📈 459 stars today",
+      "meta": "Jupyter Notebook · ★ 48,641 · 🍴 5,746 · 📈 459 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Cookbooks 是 Anthropic 提供的官方笔记本集合，展示如何有效使用 Claude 进行文本生成、代码编写、数据分析等。适合希望快速上手 Claude API 的开发者。"
+      "summary": "Claude Cookbooks 是 Anthropic 官方提供的笔记和示例集合，展示使用 Claude 进行有趣且高效应用的方法，适合开发者学习高级提示工程。"
     },
     {
       "sourceId": "github-trending",
       "title": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
       "excerpt": "🏡 Open source home automation that puts local control and privacy first.",
-      "meta": "Python · ★ 89,251 · 🍴 38,093 · 📈 400 stars today",
+      "meta": "Python · ★ 89,263 · 🍴 38,094 · 📈 400 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Home Assistant Core 是一个开源家庭自动化平台，注重本地控制和隐私保护。它集成数百种智能设备，用户可通过自动化规则、场景和语音控制管理家居，适合智能家居爱好者。"
+      "summary": "Home Assistant Core 是一个开源智能家居平台，注重本地控制和隐私保护，支持集成多种设备，适合家庭用户自动化管理物联网设备。"
     },
     {
       "sourceId": "github-trending",
       "title": "Crosstalk-Solutions/project-nomad",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "excerpt": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "meta": "TypeScript · ★ 33,949 · 🍴 3,404 · 📈 125 stars today",
+      "meta": "TypeScript · ★ 33,952 · 🍴 3,404 · 📈 125 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Project N.O.M.A.D. 是一款离线生存电脑，内置关键工具、知识和 AI 辅助，无需联网即可提供信息与决策支持。适合野外探险、紧急灾备或断网环境使用。"
+      "summary": "Project N.O.M.A.D. 是一款自包含、离线可用的生存计算机，内置关键工具、知识库和 AI 助手，适合户外探险或网络中断时的应急场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "ColeMurray/background-agents",
       "url": "https://github.com/ColeMurray/background-agents",
       "excerpt": "An open-source background agents coding system",
-      "meta": "TypeScript · ★ 2,346 · 🍴 346 · 📈 16 stars today",
+      "meta": "TypeScript · ★ 2,348 · 🍴 346 · 📈 16 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Background Agents 是一个开源后台代理编码系统，允许开发者在后台运行自动化任务，如代码生成、测试执行等。适用于需要持续集成或日常自动化辅助的团队。"
+      "summary": "Background Agents 是一个开源的后台 agent 编码系统，用于在后台执行自动化任务，适合需要持续运行智能 agent 的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "k1tbyte/Wand-Enhancer",
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "excerpt": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "meta": "C# · ★ 7,085 · 🍴 19,784 · 📈 609 stars today",
+      "meta": "C# · ★ 7,088 · 🍴 19,791 · 📈 609 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Wand Enhancer 是 WeMod（Wand）应用的增强扩展，提供高级用户体验和互操作性改进。它优化游戏修改器界面和功能，适合游戏 modding 爱好者。"
+      "summary": "Wand Enhancer 是 WeMod 游戏的 UX 增强和互操作性扩展，通过改进界面和功能提升游戏修改体验，适合模组爱好者。"
     },
     {
       "sourceId": "github-trending",
       "title": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "excerpt": "",
-      "meta": "TypeScript · ★ 13,840 · 🍴 2,903 · 📈 75 stars today",
+      "meta": "TypeScript · ★ 13,842 · 🍴 2,903 · 📈 75 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "信息不足，无法提供详细介绍。"
+      "summary": "t3code 是一个基于 T3 Stack 的代码模板或工具集，用于快速搭建全栈 TypeScript 应用，适合追求类型安全的前后端开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "virattt/ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "excerpt": "An AI Hedge Fund Team",
-      "meta": "Python · ★ 61,528 · 🍴 10,874 · 📈 115 stars today",
+      "meta": "Python · ★ 61,533 · 🍴 10,874 · 📈 115 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AI Hedge Fund Team 是一个利用 AI 技术构建的对冲基金模拟项目，通过机器学习模型分析市场数据并生成交易策略。适合金融科技爱好者和量化交易研究者。"
+      "summary": "AI Hedge Fund 是一个由 AI 驱动的对冲基金交易系统，利用机器学习算法进行市场分析和自动交易，适合量化金融研究者和算法交易爱好者。"
     },
     {
       "sourceId": "github-trending",
       "title": "chen08209/FlClash",
       "url": "https://github.com/chen08209/FlClash",
       "excerpt": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-      "meta": "Dart · ★ 45,370 · 🍴 2,862 · 📈 154 stars today",
+      "meta": "Dart · ★ 45,372 · 🍴 2,863 · 📈 154 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "FlClash 是基于 ClashMeta 的多平台代理客户端，界面简洁易用，开源无广告。支持多种代理协议，适合需要科学上网或流量分流的用户。"
+      "summary": "FlClash 是一款基于 ClashMeta 的多平台代理客户端，界面简洁、开源无广告，支持多种协议，适合需要网络代理的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "excerpt": "CLI tool for configuring and monitoring Claude Code",
-      "meta": "Python · ★ 29,325 · 🍴 3,210 · 📈 274 stars today",
+      "meta": "Python · ★ 29,326 · 🍴 3,210 · 📈 274 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Code Templates 是一个 CLI 工具，用于配置和监控 Claude Code 的代码生成过程。开发者可以定义模板、调整参数并跟踪执行状态，提高编写效率。"
+      "summary": "Claude Code Templates 是用于配置和监控 Claude Code 的 CLI 工具，帮助开发者管理提示模板和运行状态，提高 AI 编程的效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "par274/sharpemu",
       "url": "https://github.com/par274/sharpemu",
       "excerpt": "An experimental PlayStation 5 emulator project.",
-      "meta": "C# · ★ 1,413 · 🍴 85 · 📈 314 stars today",
+      "meta": "C# · ★ 1,416 · 🍴 85 · 📈 314 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "SharpEmu 是一个实验性的 PlayStation 5 模拟器项目，旨在在 PC 上运行 PS5 游戏。目前处于早期开发阶段，适合对主机模拟技术感兴趣的开发者。"
+      "summary": "SharpEmu 是一个实验性的 PlayStation 5 模拟器项目，旨在通过软件模拟 PS5 硬件，适合对主机模拟和逆向工程感兴趣的研究者。"
     },
     {
       "sourceId": "github-trending",
       "title": "malisper/pgrust",
       "url": "https://github.com/malisper/pgrust",
       "excerpt": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "meta": "Rust · ★ 2,649 · 🍴 74 · 📈 518 stars today",
+      "meta": "Rust · ★ 2,653 · 🍴 74 · 📈 518 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Pgrust 是用 Rust 重写的 PostgreSQL 数据库，目前已通过全部 Postgres 回归测试。它保留了 Postgres 的 SQL 兼容性，同时利用 Rust 的内存安全特性，适合需要高性能和可靠性的场景。"
+      "summary": "Pgrust 是使用 Rust 重写的 PostgreSQL 数据库，现通过 100% 回归测试，在保证兼容性的同时提升性能和安全性，适合数据库开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "excerpt": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "meta": "CSS · ★ 4,581 · 🍴 259 · 📈 155 stars today",
+      "meta": "CSS · ★ 4,589 · 🍴 259 · 📈 155 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Hallmark 是一个反 AI 设计工具，为 Claude Code、Cursor 和 Codex 等 AI 编程助手提供质量把关，避免生成低质量代码。适合希望提升 AI 助手输出质量的开发者。"
+      "summary": "Hallmark 是面向 Claude Code、Cursor 和 Codex 的“反 AI 审美”设计技能，帮助用户定制 AI 生成代码的风格，避免千篇一律的输出。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -404,7 +404,7 @@
       "publishedAt": "2026-07-10T07:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI宣布德国电信正借助其技术转型为AI原生电信公司，改造客服、员工工作流、网络运营及语音服务。"
+      "summary": "德国电信借助OpenAI技术转型为AI原生电信公司，应用覆盖客服、员工流程、网络运营和语音未来。"
     },
     {
       "sourceId": "openai-news",
@@ -414,7 +414,7 @@
       "publishedAt": "2026-07-09T13:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI宣布GPT-5.6成为Microsoft 365 Copilot的首选模型，提升Word、Excel、PPT、Chat及Cowork等场景的性能与质量。"
+      "summary": "GPT-5.6成为Microsoft 365 Copilot首选模型，增强Word、Excel、PowerPoint等应用的AI能力。"
     },
     {
       "sourceId": "openai-news",
@@ -424,7 +424,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布GPT-5.6，宣称其每token更智能、每美元性能更强，可依需求扩展能力以应对高难度任务。"
+      "summary": "GPT-5.6提供更高效能：每token更多智能、更强性价比，支持按需扩展。"
     },
     {
       "sourceId": "openai-news",
@@ -434,7 +434,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出ChatGPT Work代理，可在应用和文件间执行操作，持续跟进项目数小时，将目标转化为成品。"
+      "summary": "ChatGPT Work成为跨应用文件操作的代理，可长时间跟进项目，将目标转化为成品。"
     },
     {
       "sourceId": "openai-news",
@@ -444,7 +444,7 @@
       "publishedAt": "2026-07-09T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI公布GPT-5.5生物漏洞赏金计划的细节。"
+      "summary": "OpenAI启动GPT-5.5生物安全漏洞赏金计划。"
     },
     {
       "sourceId": "openai-news",
@@ -949,7 +949,7 @@
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face博客发布PyTorch性能分析系列第三部分，聚焦注意力机制的剖析方法。"
+      "summary": "PyTorch性能分析系列第三部分，探讨注意力机制的性能剖析。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1211,6 +1211,16 @@
       "publishedAt": "2026-06-09T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation",
+      "url": "https://huggingface.co/papers/2607.06957",
+      "excerpt": "Realistic and diverse traffic simulation is essential to autonomous driving development. Yet prevailing benchmarks predominantly reward realism, and recent methods have optimized accordingly, leaving diversity underexplored. We introduce Flow-ERD, a multi-agent simulator that pursues realism and div",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "meta": "👍 1",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1503,16 +1513,6 @@
       "source": "HuggingFace Trending Papers"
     },
     {
-      "sourceId": "huggingface-papers",
-      "title": "Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo",
-      "url": "https://huggingface.co/papers/2607.04939",
-      "excerpt": "Large Language Models (LLMs) unlocked new possibilities in automated code writing, becoming the backbone of most code completion tools. While LLMs excel in mainstream languages, they often lack support for the so-called low-resource languages where training data is scarce. As a result, these languag",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "meta": "👍 5",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
       "sourceId": "tldr-ai",
       "title": "GPT-5.6 🚀, Muse Spark 1.1 ✨, ChatGPT Work 💼",
       "url": "https://tldr.tech/ai/2026-07-10",
@@ -1520,7 +1520,7 @@
       "publishedAt": "2026-07-10T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI简报涵盖GPT-5.6发布、Muse Spark 1.1更新及ChatGPT Work上线。"
+      "summary": "GPT-5.6发布，Muse Spark 1.1更新，ChatGPT Work上线。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1530,7 +1530,7 @@
       "publishedAt": "2026-07-09T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI简报涵盖Grok 4.5发布、GPT-Live功能及SWE-1.7基准更新。"
+      "summary": "Grok 4.5发布，GPT-Live上线，SWE-1.7更新。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1702,7 +1702,7 @@
       "publishedAt": "2026-07-10T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI推出GPT-5.6，包含Luna/Terra/Sol三层及Max/Ultra努力级别，但ChatGPT Work与Codex的拆分带来用户体验挑战。"
+      "summary": "OpenAI推出GPT-5.6，包含Luna/Terra/Sol分层和Max/Ultra努力级别，但ChatGPT Work与Codex分流带来用户体验挑战。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1712,7 +1712,7 @@
       "publishedAt": "2026-07-09T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI推出GPT-5.6家族（Sol/Terra/Luna），集成于ChatGPT、Codex及API；定价每百万tokens 1至5美元，并推出缓存写入定价及90%缓存读取折扣。"
+      "summary": "OpenAI发布GPT-5.6家族（Sol/Terra/Luna），集成至ChatGPT、Codex和API，定价每百万token 1-5美元，缓存读取折扣90%。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1974,7 +1974,7 @@
       "publishedAt": "2026-07-11T02:53:08.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "据Latent Space报道，在连续一周密集发布模型后，今日AI领域相对平静。"
+      "summary": "在连续一周发布模型后，今日AI领域较为平静。"
     },
     {
       "sourceId": "latent-space",
@@ -1984,7 +1984,7 @@
       "publishedAt": "2026-07-10T06:19:40.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "OpenAI发布GPT 5.6系列（Sol/Terra/Luna），并将Codex整合为ChatGPT超级应用，标志着重大进展。"
+      "summary": "OpenAI发布GPT-5.6系列模型（Sol/Terra/Luna），同时Codex升级为ChatGPT超级应用，标志重大进展。"
     },
     {
       "sourceId": "latent-space",
@@ -1994,7 +1994,7 @@
       "publishedAt": "2026-07-09T06:05:41.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space报道，SpaceXAI发布Grok 4.5，称其为收购Cursor后首个Opus级模型，且推进速度居前沿实验室之首。"
+      "summary": "SpaceXAI发布Grok 4.5，成为收购Cursor后首个Opus级模型，研发速度领先。"
     },
     {
       "sourceId": "latent-space",
@@ -2004,7 +2004,7 @@
       "publishedAt": "2026-07-08T22:55:07.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Modal CTO Akshat Bubna阐述AI基础设施必须为代理体验演进，分享构建新一代代理云的经验。"
+      "summary": "Modal CTO Akshat Bubna探讨AI基础设施向Agent体验演进，分享构建新Agent云的经验。"
     },
     {
       "sourceId": "latent-space",
@@ -2158,7 +2158,7 @@
       "publishedAt": "2026-07-09T20:22:28.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT Tech Review报道，Anthropic发现Claude内部存在一个隐藏空间，模型在此对概念进行推理，从平凡到不安的发现均有。"
+      "summary": "Anthropic发现大型语言模型内部存在隐藏空间，Claude在其中对概念进行推理，揭示模型内部运作的清晰图景。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2250,7 +2250,7 @@
       "category": "tech",
       "meta": "@bingxu_ · 6.5K 粉丝 · 318.6K 阅 · 505 赞 · 88 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Bing Xu 翻译了 GLM 智谱 CEO 唐杰在小红书上的内部信，标题为「大浪已至」。信中提及 AI 行业的关键转折，可能涉及模型竞争或战略方向，具体内容需结合英译版本解读。"
+      "summary": "Bing Xu 翻译了 GLM CEO 唐杰在小红书上的内部公开信，分享关于 AI 浪潮到来的判断。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2324,13 +2324,59 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "Oil Jumps as US Conducts Wave of Strikes Against Iran (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-13/oil-jumps-as-us-conducts-wave-of-strikes-against-iran-video",
+      "excerpt": "",
+      "publishedAt": "2026-07-13T08:34:37.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "美国对伊朗发动新一轮打击，油价随之攀升。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "TSMC’s Sales Soar 36% in Latest Sign of AI Spending Momentum",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/tsmc-sales-surge-36-in-fresh-sign-of-ai-spending-momentum",
+      "excerpt": "Taiwan Semiconductor Manufacturing Co. reported a 36% jump in quarterly sales, meeting elevated expectations while signaling global demand for AI computing remains intact.",
+      "publishedAt": "2026-07-13T05:40:42.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "European Stocks 'Vulnerable' Without Solid Iran Deal: Schroders",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-13/europe-vulnerable-without-solid-iran-deal-schroders-video",
+      "excerpt": "Remi Olu-Pitan, head of multi-asset growth and income at Schroders, discusses the outlook for US earnings and European stocks. \"Europe in general tends to be the peace trade, and we're not getting a clear peace deal,\" Olu-Pitan tells Bloomberg Television. \"It leaves Europe vulnerable.\" (Source: Bloo",
+      "publishedAt": "2026-07-13T08:28:37.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "施罗德多资产增长与收益主管Remi Olu-Pitan表示，欧洲股市在缺乏明确和平协议的情况下较为脆弱，欧洲通常被视为「和平交易」，但目前缺乏清晰的和平方案。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "SK Hynix Shares Plunge Most on Record in Deepening Korea Selloff",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/sk-hynix-shares-drop-in-seoul-after-much-hyped-us-trading-debut",
+      "excerpt": "South Korea’s AI-fueled stock rally came under renewed pressure Monday as SK Hynix Inc. tumbled by a record 15%, underscoring growing investor concerns that the boom had become overstretched.",
+      "publishedAt": "2026-07-13T01:27:43.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Akzo Nobel Rejects $8.6 Billion Nippon Offer for Paint Unit",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/nippon-paint-offers-8-6-billion-for-akzo-nobel-s-paint-business",
+      "excerpt": "Akzo Nobel NV’s board rejected an offer from Nippon Paint Holdings Co. for its decorative paints business, and continued to recommend an agreed upon merger with Axalta Coating Systems Ltd.",
+      "publishedAt": "2026-07-13T02:47:58.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "Yen Falls on Report Japan Has No Plans to Change GPIF Allocation",
       "url": "https://www.bloomberg.com/news/articles/2026-07-13/yen-falls-on-report-japan-has-no-plans-to-change-gpif-allocation",
       "excerpt": "The yen weakened and Japanese government bonds extended losses after Reuters reported that Japan has no plans to overhaul the Government Pension Investment Fund’s asset allocation.",
       "publishedAt": "2026-07-13T06:49:28.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "日元下跌，日本国债扩大跌幅，因报道称日本无计划调整政府养老金投资基金资产配置。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2340,7 +2386,7 @@
       "publishedAt": "2026-07-13T08:00:22.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "彭博社报道称，人工智能可能反而为律师创造更多工作机会，而非减少工作量。"
+      "summary": "探讨人工智能可能反而增加律师工作量的原因。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2350,7 +2396,7 @@
       "publishedAt": "2026-07-13T08:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "彭博音频节目探讨人工智能可能为律师带来更多工作的观点。"
+      "summary": "探讨人工智能可能反而增加律师工作量的原因。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2360,7 +2406,7 @@
       "publishedAt": "2026-07-13T07:59:15.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "彭博MLIV视频分析市场主题，SK海力士对股市的冲击超过伊朗局势影响。"
+      "summary": "SK海力士对股市的冲击超过伊朗局势，分析师和投资者关注本周关键主题。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2379,7 +2425,7 @@
       "publishedAt": "2026-07-13T06:58:29.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "三菱日联金融集团市值升至日本首位，超越丰田，为三大巨型银行成立以来首次有银行登顶。"
+      "summary": "三菱日联金融集团（MUFG）市值升至日本最高，超越丰田，这是自三大巨型银行集团成立以来首次有银行登顶。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2389,16 +2435,7 @@
       "publishedAt": "2026-07-13T07:50:39.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "花旗策略师Manthey双重下调英国股市评级，认为其防御性及商品偏重特征在地缘政治紧张缓解后吸引力降低。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "SK Hynix Shares Plunge Most on Record in Deepening Korea Selloff",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/sk-hynix-shares-drop-in-seoul-after-much-hyped-us-trading-debut",
-      "excerpt": "South Korea’s AI-fueled stock rally came under renewed pressure Monday as SK Hynix Inc. tumbled by a record 15%, underscoring growing investor concerns that the boom had become overstretched.",
-      "publishedAt": "2026-07-13T01:27:43.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "summary": "花旗策略师Manthey双重降级英国股票，认为英国股市偏向防御性和大宗商品，在地缘政治紧张局势缓和时吸引力下降。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2417,7 +2454,7 @@
       "publishedAt": "2026-07-13T07:30:09.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "欧洲股市下跌，因美国与伊朗夜间互袭导致油价上涨，能源板块受提振，投资者同时关注财报季启动。"
+      "summary": "欧洲股市下跌，因美伊夜间相互发动打击导致油价上涨，能源板块受提振，投资者同时关注财报季开启。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2427,16 +2464,7 @@
       "publishedAt": "2026-07-13T07:25:40.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "摩根士丹利策略师Wilson预计，美国科技股以外的股票本财报季盈利强劲，将扩大股市上涨范围。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Akzo Nobel Rejects $8.6 Billion Nippon Offer for Paint Business",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/nippon-paint-offers-8-6-billion-for-akzo-nobel-s-paint-business",
-      "excerpt": "Akzo Nobel NV’s board rejected an offer from Nippon Paint Holdings Co. for its decorative paints business, and continued to recommend an agreed merger with Axalta Coating Systems Ltd.",
-      "publishedAt": "2026-07-13T02:47:58.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "summary": "摩根士丹利策略师Wilson认为，除科技巨头外，美国其他股票本季有望实现强劲盈利，从而扩大股市反弹范围。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2446,7 +2474,7 @@
       "publishedAt": "2026-07-13T06:56:52.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "海湾研究中心首席经济学家Sfakianakis分析，美伊周末互袭，双方对霍尔木兹海峡是否通航说法矛盾。"
+      "summary": "海湾研究中心首席经济学家John Sfakianakis称，伊朗与美国周末相互攻击，双方对霍尔木兹海峡是否开放说法不一，伊朗考验美国的决心。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2473,8 +2501,7 @@
       "excerpt": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
       "publishedAt": "2026-07-13T06:31:32.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "彭博节目Insight with Haslinda Amin分析美伊交火下的战争风险，投资者评估影响。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2550,15 +2577,6 @@
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "TSMC Sales Surge 36% in Fresh Sign of AI Spending Momentum",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/tsmc-sales-surge-36-in-fresh-sign-of-ai-spending-momentum",
-      "excerpt": "Taiwan Semiconductor Manufacturing Co. reported quarterly sales rose 36%, meeting high expectations and signaling global demand for AI hardware remains intact.",
-      "publishedAt": "2026-07-13T05:40:42.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
       "title": "US and Iran Trade Fresh Strikes, Dispute Whether Hormuz Is Open",
       "url": "https://www.bloomberg.com/news/articles/2026-07-13/us-and-iran-trade-fresh-strikes-dispute-whether-hormuz-is-open",
       "excerpt": "The US and Iran exchanged fresh strikes overnight into Monday as they continued their tit-for-tat attacks while issuing conflicting declarations over whether the Strait of Hormuz was open to shipping.",
@@ -2581,24 +2599,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-13/gold-bars-pile-of-us-singapore-dollars-mark-fall-of-top-indonesia-graft-hunter",
       "excerpt": "Rows of gold bars, stacks of US and Singapore dollars and seven suitcases found inside a locked safe have become the defining images of one of the biggest scandals to hit Indonesia’s law-enforcement establishment in years.",
       "publishedAt": "2026-07-13T03:36:56.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "MiniMax Shares Slump After JPMorgan Cuts Target Price Further",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/minimax-shares-slump-after-jpmorgan-cuts-target-price-further",
-      "excerpt": "MiniMax Group Inc.’s shares plunged, after JPMorgan Chase & Co. slashed the Chinese AI model maker’s price target for the second time in less than a week on value dilution concerns caused by fresh fundraising.",
-      "publishedAt": "2026-07-13T03:23:30.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Oil Jumps as Conflict Over Hormuz Escalates With Fresh Strikes",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-12/latest-oil-market-news-and-analysis-for-july-13",
-      "excerpt": "Oil jumped as the US completed another wave of strikes against Iran, with the two sides disputing whether the Strait of Hormuz was open.",
-      "publishedAt": "2026-07-12T22:02:12.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2790,7 +2790,7 @@
       "publishedAt": "2026-07-13T06:52:32.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "日本涂料公司Nippon Paint出价75亿欧元收购阿克苏诺贝尔旗下包括多乐士品牌的装饰涂料业务，意图干扰竞对交易。"
+      "summary": "日本涂料公司Nippon Paint出价75亿欧元收购阿克苏诺贝尔旗下装饰涂料业务（包括多乐士品牌），意图干扰竞争对手的交易。"
     },
     {
       "sourceId": "ft-companies",
@@ -3025,7 +3025,7 @@
       "publishedAt": "2026-07-13T07:19:57.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "SpaceX上市一个月后，其当前盈利模式的实际状况似乎变得更加清晰，市场关注其后续动力。"
+      "summary": "SpaceX上市一个月后，其实际盈利能力受到市场更清晰审视，IPO带来的势头似乎有所减弱。"
     },
     {
       "sourceId": "bbc-business",
@@ -3746,7 +3746,7 @@
       "publishedAt": "2026-07-13T07:19:57.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "SpaceX首次公开募股创历史纪录一个月后，其当前盈利模式逐渐清晰，市场关注其势头是否减弱。"
+      "summary": "SpaceX IPO上市一个月后，市场开始更清晰地审视该公司当前的盈利模式，股价上涨势头有所放缓。"
     },
     {
       "sourceId": "bbc-world",
@@ -3914,7 +3914,7 @@
       "sourceId": "guardian-world",
       "title": "At least 27 killed in fire at Bangkok pub with another 22 critically injured",
       "url": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
-      "excerpt": "The fire is one of the deadliest such incidents in the popular tourist destination in ⁠recent years A fire at a popular pub in Thailand’s ⁠capital, Bangkok, has killed 27 ⁠people, with another 22 ​in critical condition, officials said on Monday, in one of the deadliest such incidents in the tourism ",
+      "excerpt": "The fire is one of the deadliest such incidents in the popular tourist destination in ⁠recent years An explosive fire at a popular pub in Thailand’s ⁠capital, Bangkok, has killed 27 ⁠people and left another 22 ​in critical condition, in one of the deadliest such incidents in the tourism hub in recen",
       "publishedAt": "2026-07-13T01:09:58.000Z",
       "category": "politics",
       "source": "The Guardian"
@@ -3963,7 +3963,7 @@
       "publishedAt": "2026-07-13T08:04:26.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚联邦警察调查涉及120多个家庭；民调显示保琳·汉森的一族党支持率在争议性演讲后下滑，联盟党受惠。"
+      "summary": "澳大利亚联邦警察调查涉及120多个家庭的案件，涉及一名悉尼托儿所工作人员的涉嫌虐待行为。"
     },
     {
       "sourceId": "guardian-world",
@@ -3973,7 +3973,7 @@
       "publishedAt": "2026-07-13T07:53:27.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "珀斯原住民社区在议会质询中表示，1月26日集会前警方已知未指明威胁但未与组织者会面，声称“我们本该死”。"
+      "summary": "珀斯原住民社区在一次议会调查中表示，在1月26日集会前警方已知晓未指明的威胁，但未与组织者会面，直到活动后才进行沟通。"
     },
     {
       "sourceId": "guardian-world",
@@ -3983,7 +3983,7 @@
       "publishedAt": "2026-07-13T07:46:18.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "《侏罗纪公园》《钢琴课》主演、新西兰演员萨姆·尼尔去世，享年78岁。同行、导演和领导人赞扬其为“真正的绅士”和对文化、环境事业的贡献。"
+      "summary": "《侏罗纪公园》和《钢琴课》主演萨姆·尼尔去世，享年78岁。他在超过100部电影中出演，被追忆为新西兰艺术、文化和环境的捍卫者。"
     },
     {
       "sourceId": "guardian-world",
@@ -3993,7 +3993,7 @@
       "publishedAt": "2026-07-13T07:37:16.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚联邦警察就悉尼一名托儿工作者涉嫌虐待案联系了120多个家庭，警方称有136名受害者，犯罪行为持续16年。"
+      "summary": "澳大利亚联邦警察已联系超过120个家庭，调查一名悉尼托儿所工作者涉嫌的虐待行为，该男子涉嫌在16年间侵害136名受害者。"
     },
     {
       "sourceId": "guardian-world",
@@ -4012,7 +4012,7 @@
       "publishedAt": "2026-07-13T08:14:31.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "法国总统马克龙在巴黎主持“意愿联盟”会议，与乌克兰总统泽连斯基、英国首相斯塔默及德国总理默茨会谈，希望乌克兰近期进展能推动普京走向谈判。"
+      "summary": "法国总统马克龙在巴黎主持「意愿联盟」会议，邀请乌克兰总统泽连斯基、英国首相斯塔默和德国总理默茨参加，期待乌克兰近期进展推动普京谈判。"
     },
     {
       "sourceId": "guardian-world",
@@ -4054,11 +4054,11 @@
       "sourceId": "guardian-world",
       "title": "Iran launches attacks on American military facilities in Bahrain and Kuwait after fresh US strikes – Middle East crisis live",
       "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
-      "excerpt": "US military says it hit dozens of Iranian sites in strikes on Monday while UN chief warns that a return to full-scale fighting would be ‘catastrophic’ US launches new attack wave on Iran as Tehran says diplomacy has proven ‘futile’ Iran’s Revolutionary Guards said this morning they targeted American",
-      "publishedAt": "2026-07-13T08:07:58.000Z",
+      "excerpt": "US military says it hit dozens of Iranian sites in strikes on Monday while UN chief warns that a return to full-scale fighting would be ‘catastrophic’ US launches new attack wave on Iran as Tehran says diplomacy has proven ‘futile’ A US-Iranian memorandum of understanding (MoU) signed on 17 June ext",
+      "publishedAt": "2026-07-13T08:29:12.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "伊朗对巴林和科威特的美军设施发动袭击，以回应美国新一轮打击。美军称击中数十个伊朗目标，联合国秘书长警告恢复全面战斗将造成灾难。"
+      "summary": "伊朗对巴林和科威特的美国军事设施发动攻击，美军称周一打击了数十个伊朗目标。联合国秘书长警告称，全面恢复战斗将是「灾难性的」。"
     },
     {
       "sourceId": "guardian-world",
@@ -4098,13 +4098,13 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
+      "title": "Middle East Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
       "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
       "excerpt": "The U.S. military said that it had hit dozens of Iranian targets in its latest salvo. Iran’s army said that it had fired more drones at American military sites in the region, as the two sides tussle over the Strait of Hormuz.",
-      "publishedAt": "2026-07-13T08:15:24.000Z",
+      "publishedAt": "2026-07-13T08:30:13.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美国军方称在最新一轮打击中击中伊朗数十个目标；伊朗军方则称已向该地区美军基地发射更多无人机，双方围绕霍尔木兹海峡持续对抗。"
+      "summary": "美国军方称最新一轮打击击中了伊朗数十个目标；伊朗军方则向美军基地发射更多无人机，双方在霍尔木兹海峡持续对峙。"
     },
     {
       "sourceId": "nyt-world",
@@ -4225,6 +4225,16 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz/heres-the-latest",
+      "excerpt": "",
+      "publishedAt": "2026-07-13T08:30:05.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "（该条目标题为「这是最新情况」，未提供详细内容，无法生成有效摘要。）"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "Japan Is Building a New Intelligence Agency With Help From the West",
       "url": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
       "excerpt": "Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.",
@@ -4240,7 +4250,7 @@
       "publishedAt": "2026-07-13T07:19:46.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "荷兰因环保法规无法处理多余粪便，而波动剧烈的化肥价格可能让这些粪便成为有利可图的资源。"
+      "summary": "荷兰因环保法规无法处理过剩粪便，而化肥价格波动反而为部分从业者带来了商机，粪便被视为「金钱的气味」。"
     },
     {
       "sourceId": "nyt-world",
@@ -4286,7 +4296,7 @@
       "publishedAt": "2026-07-13T08:15:22.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "（新闻标题）近期猛烈打击情况一览。"
+      "summary": "（该条目标题为「以下是近日的猛烈打击」，未提供详细内容，无法生成有效摘要。）"
     },
     {
       "sourceId": "nyt-world",
@@ -4361,15 +4371,6 @@
       "source": "NYT World"
     },
     {
-      "sourceId": "nyt-world",
-      "title": "15 Killed as Speedboat Capsizes in Vietnam",
-      "url": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
-      "excerpt": "A speedboat was carrying 36 people when it overturned near the island of Phu Quoc in southern Vietnam. The other people onboard were rescued alive.",
-      "publishedAt": "2026-07-11T16:08:27.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
       "sourceId": "npr-world",
       "title": "Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
       "url": "https://www.npr.org/2026/07/13/nx-s1-5891505/actor-sam-neill-dies",
@@ -4377,7 +4378,7 @@
       "publishedAt": "2026-07-13T07:20:30.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "因《侏罗纪公园》《钢琴课》成名的演员萨姆·尼尔去世，享年78岁。其家人在社交媒体发布声明称其于周一在悉尼逝世，2023年他曾透露患上血管免疫母细胞T细胞淋巴瘤。"
+      "summary": "《侏罗纪公园》和《钢琴课》主演萨姆·尼尔去世，享年78岁。他在2023年透露确诊血管免疫母细胞T细胞淋巴瘤。"
     },
     {
       "sourceId": "npr-world",
@@ -4738,7 +4739,7 @@
       "publishedAt": "2026-07-13T08:01:19.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "英国今年经历两次创纪录热浪，5月气温达35.1°C，6月达37.7°C，与此相关死亡人数超过2700人。"
+      "summary": "英国今年5月和6月经历两次创纪录热浪，最高气温分别达35.1℃和37.7℃，导致超过2700人死亡。"
     },
     {
       "sourceId": "aljazeera",
@@ -4748,7 +4749,7 @@
       "publishedAt": "2026-07-13T07:41:59.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "退役美军上将马克·基米特警告，霍尔木兹海峡附近重燃战火可能将美伊冲突升级为更广泛的地区冲突。"
+      "summary": "退役美军上将金米特警告称，霍尔木兹海峡重燃的冲突可能导致美国和伊朗之间的对抗引发更广泛的地区冲突。"
     },
     {
       "sourceId": "aljazeera",
@@ -4758,7 +4759,7 @@
       "publishedAt": "2026-07-13T07:24:57.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "分析认为，伊朗总统佩泽什基安可能成为《谅解备忘录》失败的替罪羊，此举掩盖了德黑兰各派系间的紧张关系。"
+      "summary": "有分析指出，伊朗总统佩泽什基安可能成为美伊谅解备忘录失败的替罪羊，掩盖了德黑兰内部派系间的分歧。"
     },
     {
       "sourceId": "aljazeera",
@@ -4776,8 +4777,7 @@
       "excerpt": "Death of New Zealand actor in Sydney was 'sudden and unexpected', according to a family statement.",
       "publishedAt": "2026-07-13T06:27:42.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "新西兰演员、《侏罗纪公园》主演萨姆·尼尔在悉尼去世，享年78岁。其家属称死因“突然且意外”。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
