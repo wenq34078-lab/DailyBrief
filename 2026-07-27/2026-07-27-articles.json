@@ -6,100 +6,110 @@
       "title": "permissionlesstech/bitchat",
       "url": "https://github.com/permissionlesstech/bitchat",
       "excerpt": "bluetooth mesh chat, IRC vibes",
-      "meta": "Swift · ★ 31,177 · 🍴 4,896 · 📈 1,166 stars today",
+      "meta": "Swift · ★ 31,208 · 🍴 4,904 · 📈 1,166 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于蓝牙 mesh 的聊天工具，营造 IRC 社区氛围，无需互联网即可实现设备间消息传递。适用于离线环境或局部网络下的实时群聊场景。"
+      "summary": "bitchat 是一个基于蓝牙 Mesh 网络的去中心化聊天应用，支持多设备间直接通信，无需互联网连接。它复刻了 IRC 的简洁体验，适合在局域网、户外或离线场景下进行群体聊天，技术栈聚焦于蓝牙 Mesh 协议栈。"
     },
     {
       "sourceId": "github-trending",
       "title": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
-      "excerpt": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "meta": "JavaScript · ★ 5,146 · 🍴 244 · 📈 900 stars today",
+      "excerpt": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "meta": "JavaScript · ★ 5,166 · 🍴 245 · 📈 900 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "ego-lite 号称全球最快的 AI 浏览器，专为 AI Agent 浏览器自动化任务设计。它能将已登录的浏览器状态共享给 Codex、Claude Code 等 AI 工具，实现免打扰的自动化操作，零成本、零配置。适合需要 AI 助手代劳填写表单、提取数据等重复网页操作的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "block/buzz",
       "url": "https://github.com/block/buzz",
       "excerpt": "A hive mind communication platform",
-      "meta": "Rust · ★ 13,900 · 🍴 1,146 · 📈 1,710 stars today",
+      "meta": "Rust · ★ 13,918 · 🍴 1,154 · 📈 1,710 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Buzz 是一个群智（hive mind）沟通平台，旨在通过集体智慧进行交流与协作。它可能通过类似论坛或频道的形式聚合多个参与者的观点和决策，适用于团队头脑风暴、社区投票或分布式决策场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "excerpt": "",
-      "meta": "TypeScript · ★ 15,170 · 🍴 3,317 · 📈 149 stars today",
+      "meta": "TypeScript · ★ 15,172 · 🍴 3,321 · 📈 149 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "t3code 是 T3 团队推出的新项目，目前描述为空。从命名推测它可能围绕 TypeScript、tRPC、Tailwind 等 T3 Stack 技术栈，提供代码生成或开发工具类功能，具体用途待公开。"
     },
     {
       "sourceId": "github-trending",
       "title": "CoreBunch/Instatic",
       "url": "https://github.com/CoreBunch/Instatic",
       "excerpt": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "meta": "TypeScript · ★ 5,923 · 🍴 529 · 📈 888 stars today",
+      "meta": "TypeScript · ★ 5,935 · 🍴 529 · 📈 888 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Instatic 是 Webflow、Framer 和 WordPress 的开源替代品。它是一个自托管的可视化 CMS，能够生成干净的静态页面，具备用户、角色、插件、内容、数据库等完整功能，并融入 Agentic 特性，适合需要自主掌控建站内容与性能的开发者或企业。"
     },
     {
       "sourceId": "github-trending",
       "title": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
       "excerpt": "Pretty fancy and modern terminal file manager",
-      "meta": "Go · ★ 20,452 · 🍴 647 · 📈 131 stars today",
+      "meta": "Go · ★ 20,462 · 🍴 647 · 📈 131 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "superfile 是一款现代终端文件管理器，以美观和功能丰富为特点。它支持在命令行中高效浏览、操作文件，适合习惯终端工作流的开发者，提供比传统命令如 ls、cd 更直观的交互体验。"
     },
     {
       "sourceId": "github-trending",
       "title": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "excerpt": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "meta": "JavaScript · ★ 118,536 · 🍴 36,181 · 📈 36 stars today",
+      "meta": "JavaScript · ★ 118,537 · 🍴 36,181 · 📈 36 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Node.js 是跨平台的 JavaScript 运行时环境，基于 Chrome V8 引擎，用于构建高性能网络应用和后端服务。它采用事件驱动、非阻塞 I/O 模型，广泛应用于 Web 服务器、API 开发、CLI 工具及微服务架构。"
     },
     {
       "sourceId": "github-trending",
       "title": "OtterMind/Chat2DB",
       "url": "https://github.com/OtterMind/Chat2DB",
       "excerpt": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "meta": "Java · ★ 27,331 · 🍴 2,952 · 📈 398 stars today",
+      "meta": "Java · ★ 27,342 · 🍴 2,952 · 📈 398 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Chat2DB 是一款 AI 驱动的数据库管理工具和 SQL 客户端，支持 MySQL、Oracle、PostgreSQL 等多种主流数据库。它通过自然语言交互简化查询与操作，提供图形化界面，适合数据分析师、开发者和管理员快速执行数据库任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "excerpt": "The design language that makes your AI harness better at design.",
-      "meta": "JavaScript · ★ 50,986 · 🍴 3,004 · 📈 413 stars today",
+      "meta": "JavaScript · ★ 50,991 · 🍴 3,004 · 📈 413 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Impeccable 是一套设计语言，旨在帮助 AI 工具在 UI 设计方面表现得更好。它提供统一的设计规范和组件，使 AI 生成的界面更美观、一致，适用于 AI 设计助手、自动布局生成等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "excerpt": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "meta": "Python · ★ 34,323 · 🍴 5,775 · 📈 321 stars today",
+      "meta": "Python · ★ 34,323 · 🍴 5,776 · 📈 321 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Kronos 是一个针对金融市场语言的基础模型，通过学习历史交易数据、财报和新闻等金融文本，辅助量化分析、趋势预测和风险评估。适合金融科技公司、量化交易员和研究人员用于建模与决策支持。"
     },
     {
       "sourceId": "github-trending",
       "title": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "excerpt": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "meta": "Go · ★ 14,245 · 🍴 963 · 📈 832 stars today",
+      "meta": "Go · ★ 14,252 · 🍴 964 · 📈 832 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "阿里开源的代码审查工具，采用混合架构：确定性流水线结合 LLM Agent，能在行级精准评论。内置针对 NPE、线程安全等常见问题的规则集，已在大规模生产环境验证。适合开发团队用于自动化代码审查、提升代码质量。"
     },
     {
       "sourceId": "github-trending",
@@ -108,16 +118,18 @@
       "excerpt": "Simple, unified interface to multiple Generative AI providers",
       "meta": "Python · ★ 15,484 · 🍴 1,639 · 📈 187 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "AISuite 提供统一接口，可轻松调用 OpenAI、Anthropic、Google 等多家人工智能服务商。它简化了多提供商切换和版本管理，适合需要在应用中集成多个 AI 模型、进行对比测试或负载均衡的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "excerpt": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "meta": "Jupyter Notebook · ★ 50,401 · 🍴 5,936 · 📈 379 stars today",
+      "meta": "Jupyter Notebook · ★ 50,409 · 🍴 5,936 · 📈 379 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Claude Cookbooks 是 Anthropic 官方整理的笔记本集合，展示如何高效使用 Claude 模型。包含提示工程、工具调用、多模态交互等实战案例，适合希望通过可运行代码快速掌握 Claude API 的开发者。"
     },
     {
       "sourceId": "github-trending",
@@ -126,34 +138,38 @@
       "excerpt": "Empowering everyone to host fast and efficient Minecraft servers.",
       "meta": "Rust · ★ 10,138 · 🍴 678 · 📈 338 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Pumpkin 是一个高性能 Minecraft 服务器实现，旨在让每个人都能轻松搭建快速、高效的服务器。它专注于优化性能与资源占用，适合游戏社区建设者、模组服主和希望节省成本的个人玩家。"
     },
     {
       "sourceId": "github-trending",
       "title": "permissionlesstech/bitchat-android",
       "url": "https://github.com/permissionlesstech/bitchat-android",
       "excerpt": "bluetooth mesh chat, IRC vibes",
-      "meta": "Kotlin · ★ 6,870 · 🍴 1,648 · 📈 260 stars today",
+      "meta": "Kotlin · ★ 6,876 · 🍴 1,652 · 📈 260 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "bitchat 的 Android 版本，同样基于蓝牙 Mesh 网络实现无互联网聊天。它与桌面版互通，支持多设备网状通信，适合户外探险、活动现场或内部通信等需要临时网络覆盖的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "excerpt": "Jenkins automation server",
-      "meta": "Java · ★ 25,781 · 🍴 9,665 · 📈 18 stars today",
+      "meta": "Java · ★ 25,782 · 🍴 9,665 · 📈 18 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Jenkins 是最流行的开源自动化服务器，支持持续集成和持续交付（CI/CD）。通过插件生态可对接 Git、Docker 等工具，自动完成构建、测试、部署流程，适用于各类软件开发团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "amnezia-vpn/amnezia-client",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "excerpt": "Amnezia VPN Client (Desktop+Mobile)",
-      "meta": "C++ · ★ 13,498 · 🍴 1,015 · 📈 35 stars today",
+      "meta": "C++ · ★ 13,502 · 🍴 1,017 · 📈 35 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Amnezia VPN 客户端，覆盖桌面和移动端，是一款开源 VPN 工具。它支持多种协议和高级配置，旨在绕过网络审查并保护隐私，适合需要安全上网、访问受限内容的用户。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -388,7 +404,7 @@
       "publishedAt": "2026-07-23T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI在ChatGPT中推出健康功能，允许符合条件的美国用户安全连接医疗记录和Apple Health数据，获得个性化健康洞察。"
+      "summary": "OpenAI 推出 ChatGPT 健康功能，允许符合条件的美国用户安全连接医疗记录和 Apple Health 数据，获得个性化健康洞察。"
     },
     {
       "sourceId": "openai-news",
@@ -398,7 +414,7 @@
       "publishedAt": "2026-07-22T13:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI宣布在佐治亚州Effingham县开展Project Camellia，承诺负责任能源、社区投资、就业和Codex访问权限。"
+      "summary": "OpenAI 在乔治亚州埃芬汉县宣布 Project Camellia，承诺负责任能源、社区投资、就业和 Codex 访问。"
     },
     {
       "sourceId": "openai-news",
@@ -408,7 +424,7 @@
       "publishedAt": "2026-07-22T13:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "新闻机构利用AI强化报道、扩大受众和改善运营，OpenAI工具正支持全球记者和出版商。"
+      "summary": "新闻机构正在利用 AI 加强报道、扩大受众和改善业务运营，OpenAI 工具支持全球记者和出版商。"
     },
     {
       "sourceId": "openai-news",
@@ -418,7 +434,7 @@
       "publishedAt": "2026-07-22T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI承诺与美国能源部及国家实验室合作，推动前沿AI加速科学发现，助力美国科学事业。"
+      "summary": "OpenAI 承诺与美国能源部和国家实验室合作，利用前沿 AI 加速科学发现，推动美国科学进步。"
     },
     {
       "sourceId": "openai-news",
@@ -662,7 +678,7 @@
       "publishedAt": "2026-07-22T13:38:54.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "Google承诺向Genesis Mission捐赠4000万美元的AI tokens和积分，以加速科学发现的前沿。"
+      "summary": "Google 承诺为 Genesis Mission 提供 4000 万美元的 AI tokens 和信用额度，以加速科学发现。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -933,7 +949,7 @@
       "publishedAt": "2026-07-23T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face将Nunchaku 4位扩散推理集成到Diffusers库中，提升了模型推理效率。"
+      "summary": "Hugging Face 宣布将 Nunchaku 4 位扩散推理集成到 Diffusers 中。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1272,7 +1288,7 @@
       "url": "https://huggingface.co/papers/2607.22043",
       "excerpt": "Although large language models (LLMs) exhibit remarkable reasoning capabilities, their reliance on text-only pre-training restricts the perception of the multimodal physical world. Native multimodal pre-training avoids this limitation by training models from scratch on multimodal inputs, thereby ach",
       "publishedAt": "2026-07-24T00:00:00.000Z",
-      "meta": "👍 10",
+      "meta": "👍 11",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1504,7 +1520,7 @@
       "publishedAt": "2026-07-24T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "本期AI新闻涵盖ChatGPT健康功能、Fugu-Ultra 1.1模型和Runway Media Router产品更新。"
+      "summary": "ChatGPT 健康功能、Fugu-Ultra 1.1 模型、以及 Runway Media Router 工具发布。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1514,7 +1530,7 @@
       "publishedAt": "2026-07-23T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "本期AI新闻包括Cursor Router更新、OpenAI Presence功能以及AMD与Anthropic达成合作交易。"
+      "summary": "Cursor Router 工具、OpenAI 的 Presence 功能、以及 AMD 与 Anthropic 的交易宣布。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1685,8 +1701,7 @@
       "excerpt": "**Anthropic** launched the **Claude Opus 5** model, which sparked mixed reactions including benchmark scrutiny and praise for its coding-agent capabilities. The model achieved an **Epoch Capabilities Index (ECI) of 159**, slightly below **Fable 5's 161**, but matched Fable 5 on software engineering ",
       "publishedAt": "2026-07-24T05:44:39.000Z",
       "category": "tech",
-      "source": "Smol AI News",
-      "summary": "Anthropic发布了Claude Opus 5模型，其Epoch能力指数（ECI）达到159，略低于Fable 5的161，但在编码代理能力上获得好评，市场反应不一。"
+      "source": "Smol AI News"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1696,7 +1711,7 @@
       "publishedAt": "2026-07-23T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "The Stack v3发布，成为最大的开放代码数据集，包含114TB原始数据、2.24亿个仓库和5万亿去重token。蒸馏技术争议继续激化。"
+      "summary": "The Stack v3 数据集发布，包含 114 TB 原始数据、2.24 亿个仓库和 5 万亿去重 token，为开源代码模型和网络防御提供支持。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1958,7 +1973,7 @@
       "publishedAt": "2026-07-25T07:25:38.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Anthropic推出Claude Opus 5模型，以Opus价格（约为Fable一半）实现Fable级别性能，引发业界关注。"
+      "summary": "Anthropic 发布 Claude Opus 5 模型，性能达到 Fable 级别，价格仅为 Fable 的一半。"
     },
     {
       "sourceId": "latent-space",
@@ -1968,7 +1983,7 @@
       "publishedAt": "2026-07-24T04:30:12.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Black Forest Labs推出FLUX 3多模态流模型，性能超越Seedance 2.0、Gemini Omni和Grok Imagine，并发布了FLUX-mimic视频动作机器人模型。"
+      "summary": "Black Forest Labs 发布 FLUX 3 多模态流模型，性能超越 Seedance 2.0、Gemini Omni 和 Grok Imagine，并推出 FLUX-mimic 视频动作机器人模型。"
     },
     {
       "sourceId": "latent-space",
@@ -1978,7 +1993,7 @@
       "publishedAt": "2026-07-23T05:18:47.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Laguna S 2.1发布，价格低于Deepseek v4 Flash，性能优于V4 Pro，成为Neolab的又一里程碑。"
+      "summary": "Laguna S 2.1 模型发布，价格低于 Deepseek v4 Flash，性能优于 V4 Pro。"
     },
     {
       "sourceId": "latent-space",
@@ -1988,7 +2003,7 @@
       "publishedAt": "2026-07-23T05:09:14.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Poolside联合CEO Eiso Kant介绍，其小型顶尖研究团队建造了模型工厂，成功训练出118B参数的MOE模型Laguna S，性能超越Thinky约1T参数的开源模型。"
+      "summary": "Poolside AI 联合 CEO 介绍其小型团队如何构建模型工厂，训练出 118B MOE 参数模型 Laguna S，超越 Thinky 约 1T 参数模型。"
     },
     {
       "sourceId": "latent-space",
@@ -2142,7 +2157,7 @@
       "publishedAt": "2026-07-23T12:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "AI正在帮助科学家设计下一代药物，生物制剂的开发成本高昂且易失败，AI可加速候选药物筛选，降低研发成本和周期。"
+      "summary": "AI 正在帮助科学家设计下一代药物，降低传统药物开发的高成本和长周期，尤其对于生物疗法，提升候选药物筛选效率。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2234,7 +2249,7 @@
       "category": "tech",
       "meta": "@akshay_pachaar · 282.5K 粉丝 · 66.4K 阅 · 515 赞 · 74 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "图解「图工程」（Graph Engineering）的概念，指出「循环工程」热潮仅持续约六周便被社区抛弃，回溯 OpenClaw 作者 Peter Steinberger 的九字提问作为转折点。"
+      "summary": "Graph Engineering（图工程）清晰讲解，指出 Loop Engineering 热度消退后，图工程成为更可靠的 AI 工作流架构。以 OpenClaw 开发者 Peter Steinberger 一条九字提问引出话题。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2278,6 +2293,16 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "Japan’s GPIF Says to Act Only in Interest of Beneficiaries",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/japan-s-gpif-says-to-act-only-in-interest-of-beneficiaries",
+      "excerpt": "Japan’s Government Pension Investment Fund will manage its assets solely in the long-term interest of its beneficiaries, its leader said Monday, an apparent pushback at suggestions from the prime minister and members of her cabinet that GPIF increase investments in domestic assets.",
+      "publishedAt": "2026-07-27T08:55:35.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "日本政府养老金投资基金（GPIF）负责人周一表示，将仅以受益人长期利益为准管理资产，这明显反驳了首相及内阁成员要求GPIF增加国内投资的建议。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "European Stocks Pare Iran-Related Gains on ECB Rate-Hike Worries",
       "url": "https://www.bloomberg.com/news/articles/2026-04-27/european-stocks-steady-as-investors-monitor-iran-s-hormuz-offer",
       "excerpt": "European stocks trimmed their advance from falling oil prices, after a European Central Bank rate-setter said the institution will have to raise interest rates at least one more time to curtail inflation risks.",
@@ -2287,13 +2312,23 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "France’s Lescure Warns of Economic Shock for Region Hit by Fires",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/france-s-lescure-warns-of-economic-shock-for-region-hit-by-fires",
+      "excerpt": "French Finance Minister Roland Lescure said wildfires in the southwest are a major economic setback for the region as businesses and tourists were forced to evacuate.",
+      "publishedAt": "2026-07-27T08:40:23.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "法国财政部长罗兰·莱斯库尔表示，西南部地区的野火对当地经济造成重大冲击，企业和游客被迫撤离。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "AT&T Kick Starts Sale of Five-Part Euro, Sterling Bond Deal",
       "url": "https://www.bloomberg.com/news/articles/2026-07-27/at-t-kick-starts-sale-of-five-part-euro-sterling-bond-offering",
       "excerpt": "AT&T Inc. has opened books on a at least €2 billion ($2.23 billion) euro and sterling bond offering, injecting a large corporate deal into what’s a traditionally subdued period for Europe’s primary market.",
       "publishedAt": "2026-07-27T07:51:23.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "AT&T启动至少20亿欧元（约22.3亿美元）的欧元和英镑债券发行，分为五部分，为欧洲一级市场注入大型企业交易。"
+      "summary": "AT&T启动至少20亿欧元（约22.3亿美元）的欧元和英镑债券发行，分为五个部分，为欧洲一级市场注入大型企业交易。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2303,7 +2338,7 @@
       "publishedAt": "2026-07-27T08:26:35.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "软银公司接近收购黑石集团旗下的日本支付服务商SP.LINKS Inc.，已获得优先竞标者地位。"
+      "summary": "软银集团接近收购黑石集团旗下日本支付服务提供商SP.LINKS Inc.，已获得优先竞标者地位。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2322,7 +2357,7 @@
       "publishedAt": "2026-07-27T08:00:20.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "经济学家Branko Milanovic就中国、欧洲及国家市场自由主义的诞生发表观点。"
+      "summary": "经济学家布兰科·米拉诺维奇探讨「国家市场自由主义」这一新经济秩序概念，分析中国、欧洲及全球化的未来走向。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2332,7 +2367,7 @@
       "publishedAt": "2026-07-27T08:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "播客节目Odd Lots讨论新经济秩序，经济学家Branko Milanovic提出全球化失宠后的新时代可被定义为国家市场自由主义。"
+      "summary": "播客节目「Odd Lots」中，布兰科·米拉诺维奇将当前全球化退潮时期定义为「国家市场自由主义」，并探讨这一新经济秩序的特征。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2351,7 +2386,7 @@
       "publishedAt": "2026-07-27T07:30:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "奥迪集团预计今年销量和盈利能力将下降，原因是中国市场恶化及美国关税阻碍其扭亏努力。"
+      "summary": "奥迪集团预计今年销售和盈利将下滑，原因是中国市场状况恶化及美国关税阻碍其转型努力，前景更为悲观。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2360,8 +2395,7 @@
       "excerpt": "The first US liquefied natural gas shipment to China in more than a year will be re-exported, as the local companies involved look to tap higher profits overseas and avoid paying tariffs, according to people with knowledge of the matter.",
       "publishedAt": "2026-07-27T06:58:10.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "一年多来首批运往中国的美国液化天然气（LNG）货物将被转口，因相关企业寻求利用海外更高利润并避免支付关税。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2370,8 +2404,7 @@
       "excerpt": "An Asia-bound supertanker carrying Saudi oil has exited the Red Sea via the longer Suez Canal route while other vessels continue to risk the Bab el-Mandeb Strait, as Houthi threats heighten uncertainty in the region.",
       "publishedAt": "2026-07-27T06:51:16.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "一艘载有沙特石油的亚洲方向超级油轮从红海经苏伊士运河绕行，而其他船只仍冒风险通过曼德海峡，胡塞武装威胁加剧地区不确定性。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2442,24 +2475,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-27/soybean-oil-drops-most-in-month-after-us-halts-strikes-on-iran",
       "excerpt": "Chicago soybean oil futures fell the most in a month on Monday as the US pause in strikes against Iran eased fears of further escalation, sending crude prices tumbling and pulling grain and oilseed markets lower.",
       "publishedAt": "2026-07-27T04:55:20.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Innolight Is Said Set to Price Hong Kong Listing Below Maximum",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/innolight-is-said-set-to-price-hong-kong-listing-below-maximum",
-      "excerpt": "Zhongji Innolight Co. is telling prospective investors it is on track to price its HK$53.4 billion ($6.8 billion) Hong Kong listing below the maximum, according to people familiar with the matter, as the company moves closer to sealing the city’s biggest first-time share sale in seven years.",
-      "publishedAt": "2026-07-27T04:53:37.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "India Retail Investors Cash Out as Foreign Buying of Stocks Resumes",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-27/india-retail-investors-cash-out-as-foreign-buying-of-stocks-resumes",
-      "excerpt": "Selling by retail investors could limit potential upside in the Nifty benchmark.",
-      "publishedAt": "2026-07-27T02:30:16.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2650,8 +2665,7 @@
       "excerpt": "KKR and Energy Capital Partners bid recommended despite objections from large shareholders",
       "publishedAt": "2026-07-27T08:05:47.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "DCC董事会支持有争议的57.5亿英镑私募股权收购，KKR和Energy Capital Partners的竞购提议获得推荐，尽管有大型股东反对。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2660,8 +2674,7 @@
       "excerpt": "Tech group briefly becomes China’s most valuable listed company in mainland’s biggest IPO since 2010",
       "publishedAt": "2026-07-27T07:29:15.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "中国芯片公司长鑫存储（CXMT）上市首日暴涨466%，一度成为中国市值最高的上市公司，是内地自2010年以来最大的IPO。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2896,7 +2909,7 @@
       "publishedAt": "2026-07-27T07:34:59.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "一家中国芯片制造商股价在上市首日飙升470%，人工智能热潮推动芯片需求。"
+      "summary": "一家中国芯片制造公司股票上市首日飙升470%，AI热潮推动芯片需求，使其成为备受瞩目的市场新星。"
     },
     {
       "sourceId": "bbc-business",
@@ -2906,7 +2919,7 @@
       "publishedAt": "2026-07-27T08:14:46.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "美国驻外大使称，特朗普暂停了对伊朗的攻击，为谈判留出空间。过去两晚双方均未发动袭击，此前近两周的报复性打击曾危及结束战争的谈判。"
+      "summary": "美国驻伊朗大使表示，特朗普暂停对伊朗的攻击，为谈判创造空间。近两周的报复性打击后，美伊连续两晚未发动袭击，此前局势曾危及永久结束战争的谈判。"
     },
     {
       "sourceId": "bbc-business",
@@ -3105,7 +3118,7 @@
       "publishedAt": "2026-07-27T07:52:30.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "北爱尔兰消费者委员会表示，受美伊冲突影响，家庭取暖油价格在三周内上涨100英镑，引发对家庭负担的担忧。"
+      "summary": "北爱尔兰消费者委员会表示，美伊冲突导致家庭取暖油价格在三周内上涨100英镑，引发对家庭经济压力的担忧。"
     },
     {
       "sourceId": "bbc-business",
@@ -3415,15 +3428,6 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
-      "publishedAt": "2026-07-27T00:27:58.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
       "title": "Berlin Pride attack suspect shot and killed during police operation",
       "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
       "excerpt": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
@@ -3442,20 +3446,19 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
-      "publishedAt": "2026-07-27T07:37:11.000Z",
+      "title": "Infantino tells Fifa critics to 'meditate, pray or watch football'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup.",
+      "publishedAt": "2026-07-27T08:07:28.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "说唱歌手杨·菲利在澳大利亚强奸案庭审中作证，称与指控他的女粉丝「气氛很好」。他否认强奸指控。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
-      "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Javier Milei made the comments while in Brazil at a rally to launch the campaign of right-wing presidential candidate Flávio Bolsonaro.",
-      "publishedAt": "2026-07-27T01:35:51.000Z",
+      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+      "publishedAt": "2026-07-27T00:27:58.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3470,13 +3473,31 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
       "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
       "excerpt": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
       "publishedAt": "2026-07-27T06:48:02.000Z",
       "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
+      "publishedAt": "2026-07-27T07:37:11.000Z",
+      "category": "politics",
       "source": "BBC World",
-      "summary": "英国首相承诺继续支持乌克兰，乌克兰总统泽连斯基将进行访问，这将是首相上任后的首位国际访客。"
+      "summary": "说唱歌手Yung Filly在澳大利亚受审，他否认在酒店房间强奸一名粉丝，并在证人席上称当时「氛围很好」。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
+      "publishedAt": "2026-07-27T02:08:36.000Z",
+      "category": "politics",
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3489,73 +3510,20 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-      "publishedAt": "2026-07-25T00:06:53.000Z",
+      "title": "Chinese chipmaker shares surge 470% in blockbuster stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The company's shares soared by 470% in its market debut, as the AI boom drives chip demand.",
+      "publishedAt": "2026-07-27T07:34:59.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "一家中国芯片制造公司上市首日股价暴涨470%，AI热潮推动芯片需求激增。"
     },
     {
       "sourceId": "bbc-world",
-      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-      "publishedAt": "2026-07-24T23:01:06.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "publishedAt": "2026-07-25T06:34:40.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-      "publishedAt": "2026-07-25T17:44:46.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-      "publishedAt": "2026-07-24T22:49:59.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "ICC top prosecutor removed over sexual misconduct allegations",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
-      "publishedAt": "2026-07-24T21:02:30.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-      "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
-      "publishedAt": "2026-07-25T02:14:50.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "publishedAt": "2026-07-24T20:23:58.000Z",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+      "publishedAt": "2026-07-26T21:23:53.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3606,33 +3574,6 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Would you pay $58.5m to live in this iconic New York building?",
-      "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "With its renovation nearly complete, the Flatiron is ready for its next - and most extravagant - phase of life.",
-      "publishedAt": "2026-07-26T00:05:03.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "What Love Island tells us about the changing face of dating",
-      "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
-      "publishedAt": "2026-07-25T23:31:49.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-      "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
-      "publishedAt": "2026-07-25T23:30:07.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
       "title": "Watch: Scaffolding tumbles from Hong Kong building as Typhoon Noul makes landfall",
       "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss",
       "excerpt": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
@@ -3674,8 +3615,7 @@
       "excerpt": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition Uganda has launched emergency food relief distribution after at least 19 deaths from hunger were reported in an area of prolonged drought in the east of the country. A crisis has been buildi",
       "publishedAt": "2026-07-27T07:00:34.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "乌干达因卡莫贾地区干旱和农作物歉收导致至少19人饿死，政府启动紧急食品救济，150万人面临营养不良。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -3811,7 +3751,7 @@
       "publishedAt": "2026-07-27T07:59:50.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "新南威尔士州警察副专员反驳允许犹太安保团体持枪的呼吁，称可能被视为「偏袒」。"
+      "summary": "新南威尔士州警察副总监表示，允许犹太安保组织携带枪支可能被视为「偏袒」。反犹太主义与社会凝聚力皇家委员会本周审查犹太社区安保安排。"
     },
     {
       "sourceId": "guardian-world",
@@ -3821,7 +3761,7 @@
       "publishedAt": "2026-07-27T07:53:23.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "主持阿尔巴尼斯“上床、结婚、约会”采访的喜剧演员表示，该片段是「断章取义」。"
+      "summary": "主持阿尔巴尼斯「亲吻、结婚、约会」采访的喜剧演员称该片段「断章取义」。今日进行澳洲紧急警报系统AusAlert测试。"
     },
     {
       "sourceId": "guardian-world",
@@ -3831,7 +3771,7 @@
       "publishedAt": "2026-07-27T07:42:17.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "廉政公署听证会获悉，资深政界人士支持年轻的新州自由党权力掮客向右翼倾斜，活动演讲者包括托尼·阿博特和艾伦·琼斯。"
+      "summary": "腐败监督机构听证会披露，新南威尔士州自由党资深政客支持年轻权力掮客将党派向右翼倾斜，相关活动包括托尼·阿博特和艾伦·琼斯演讲。"
     },
     {
       "sourceId": "guardian-world",
@@ -3840,8 +3780,7 @@
       "excerpt": "Exclusive: Lawsuit filed on behalf of seven protesters alleges ban amounts to ‘a direct, content-based restriction’ on speech, effectively targeting pro-Palestine movement Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A group of pr",
       "publishedAt": "2026-07-27T06:57:05.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "抗议者向澳大利亚高等法院提起诉讼，质疑昆士兰州对口号“从河流到海洋”的禁令，认为其构成对言论的直接内容限制。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -3850,8 +3789,7 @@
       "excerpt": "Federal government touts emergency warning alert test as a success and says no approach works 100% of the time Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A blaring emergency warning alert Australians had been warned about was an",
       "publishedAt": "2026-07-27T06:49:42.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "澳大利亚国家紧急警报测试中，部分民众未收到警报声。联邦政府称测试成功，但无方案能百分百覆盖。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -3860,8 +3798,7 @@
       "excerpt": "Wind and record-breaking heat are fuelling the continent’s explosive fire season, with Spain and France among worst hit Explainer: what is a ‘fire cloud’, and how have they worsened wildfires in Europe? Europe wildfires live – latest updates A combination of an unusually wet winter, very low rainfal",
       "publishedAt": "2026-07-27T07:21:09.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "狂风和创纪录高温加剧欧洲野火季，西班牙和法国受灾最重，火灾难以扑灭。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -3906,8 +3843,7 @@
       "excerpt": "Top military officials say campaign has reached its limit of effectiveness and warn of dwindling stocks of munitions The US has paused strikes on Iran for a third night as top military officials advised Donald Trump to halt his bombing campaign, and diplomatic negotiations have continued to avoid a ",
       "publishedAt": "2026-07-27T06:33:40.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "美国暂停对伊朗第三晚的打击，军方高层建议特朗普停止轰炸，称行动已达效果极限且弹药库存减少。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -4052,7 +3988,7 @@
       "publishedAt": "2026-07-27T08:29:28.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "西欧遭遇致命野火，法国和西班牙数10万人因高温和干燥条件被迫撤离。"
+      "summary": "西欧野火肆虐，法国和西班牙数十万人因高温和干旱引发的大火被迫撤离。"
     },
     {
       "sourceId": "nyt-world",
@@ -4218,6 +4154,56 @@
     },
     {
       "sourceId": "npr-world",
+      "title": "Why Ukraine is targeting Russia's retail giant Wildberries",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5906840/why-ukraine-is-targeting-russias-retail-giant-wildberries",
+      "excerpt": "Nearly every day, there are new attacks on the Russian online retailer. Why is Ukraine trying to destroy it?",
+      "publishedAt": "2026-07-27T08:43:26.000Z",
+      "category": "politics",
+      "source": "NPR World",
+      "summary": "乌克兰几乎每天对俄罗斯在线零售商Wildberries发动攻击，试图摧毁该零售巨头。"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Ukrainian peace negotiator says drone strikes could force Russia into ceasefire",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5906461/ukrainian-peace-negotiator-says-drone-strikes-could-force-russia-into-ceasefire",
+      "excerpt": "Sergei Kyslytsya, a top Ukrainian peace negotiator, says long-range drone strikes into Russia have strengthened Ukraine's hand and could compel Vladimir Putin toward a ceasefire deal.",
+      "publishedAt": "2026-07-27T08:43:21.000Z",
+      "category": "politics",
+      "source": "NPR World",
+      "summary": "乌克兰和平谈判代表Sergei Kyslytsya表示，远程无人机打击俄罗斯加强了乌方立场，可能促使普京同意停火协议。"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "U.S. and Iran pause airstrikes as diplomatic efforts move forward",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5906393/u-s-and-iran-pause-airstrikes-as-diplomatic-efforts-move-forward",
+      "excerpt": "Oman says talks with Iran on reopening the Strait of Hormuz are making progress, as Tehran pauses retaliatory attacks after the U.S. suspends its strikes.",
+      "publishedAt": "2026-07-27T08:43:03.000Z",
+      "category": "politics",
+      "source": "NPR World",
+      "summary": "美国和伊朗暂停空袭。阿曼称与伊朗就重开霍尔木兹海峡的谈判取得进展，伊朗在美国暂停打击后暂停报复性攻击。"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Policy expert on Trump reversing course on plans for large-scale attack against Iran",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5904547/policy-expert-on-trump-reversing-course-on-plans-for-large-scale-attack-against-iran",
+      "excerpt": "Why did President Trump stand down U.S. forces after hinting at a massive attack on Iran? NPR's Leila Fadel asks Iran policy expert Suzanne Maloney of the Brookings Institution.",
+      "publishedAt": "2026-07-27T08:42:58.000Z",
+      "category": "politics",
+      "source": "NPR World",
+      "summary": "特朗普在暗示将对伊朗发动大规模攻击后撤回美军。布鲁金斯学会伊朗政策专家Suzanne Maloney分析原因。"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Authorities say deadly car ramming at Berlin Pride was an Islamist terrorist attack",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5908499/authorities-say-deadly-car-ramming-at-berlin-pride-was-an-islamist-terrorist-attack",
+      "excerpt": "German officials termed the deadly car ramming attack near the Berlin pride celebration that killed one and injured dozens an Islamist terrorist attack",
+      "publishedAt": "2026-07-27T08:42:50.000Z",
+      "category": "politics",
+      "source": "NPR World",
+      "summary": "德国官员称，柏林骄傲节附近发生的致命汽车冲撞事件是伊斯兰恐怖袭击，造成一人死亡、数十人受伤。"
+    },
+    {
+      "sourceId": "npr-world",
       "title": "Can the U.S. and Iran take the off-ramp?",
       "url": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
       "excerpt": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.",
@@ -4258,51 +4244,6 @@
       "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
       "excerpt": "Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
       "publishedAt": "2026-07-26T10:00:00.000Z",
-      "category": "politics",
-      "source": "NPR World"
-    },
-    {
-      "sourceId": "npr-world",
-      "title": "Suspect in Berlin Pride vehicle attack is dead, police say",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-      "excerpt": "Germany's interior minister Alexander Dobrindt described the incident as a likely \"Islamic terror attack,\" and named the suspect as Abdul Ballout, who was born in Germany and has Lebanese roots.",
-      "publishedAt": "2026-07-26T01:10:56.000Z",
-      "category": "politics",
-      "source": "NPR World"
-    },
-    {
-      "sourceId": "npr-world",
-      "title": "France and Spain fires force more than 300,000 to flee homes",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
-      "excerpt": "In France, around 50,000 people were evacuated from their homes overnight into Sunday, according to interior minister Laurent Nuñez. At least one person has died in a fire in Spain, officials said.",
-      "publishedAt": "2026-07-26T01:05:45.000Z",
-      "category": "politics",
-      "source": "NPR World"
-    },
-    {
-      "sourceId": "npr-world",
-      "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
-      "url": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
-      "excerpt": "Led by Gen-Z youth across India, the movement has become perhaps the biggest challenge to Prime Minister Narendra Modi during his 12 years in office.",
-      "publishedAt": "2026-07-25T14:48:22.000Z",
-      "category": "politics",
-      "source": "NPR World"
-    },
-    {
-      "sourceId": "npr-world",
-      "title": "Ukraine drone strikes on Wildberries warehouses hit Russian sellers, consumers",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5905377/ukraine-drone-strikes-on-wildberries-warehouses-hit-russian-sellers-consumers",
-      "excerpt": "Ukraine's attacks on warehouses of the Russian online retailer Wildberries have hurt small businesses and some consumers.",
-      "publishedAt": "2026-07-25T11:43:48.000Z",
-      "category": "politics",
-      "source": "NPR World"
-    },
-    {
-      "sourceId": "npr-world",
-      "title": "The cooling crisis: How climate change forced air conditioning onto France's agenda",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5902123/the-cooling-crisis-how-climate-change-forced-air-conditioning-onto-frances-agenda",
-      "excerpt": "For a country that's never needed -- and often looked down on -- air conditioning, this has been a summer of reckoning. As France suffers through successive extreme heatwaves, AC has become a political issue too.",
-      "publishedAt": "2026-07-25T11:43:45.000Z",
       "category": "politics",
       "source": "NPR World"
     },
@@ -4593,7 +4534,7 @@
       "publishedAt": "2026-07-27T08:11:26.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "以色列总理内塔尼亚胡在访美前指控市长佐兰·马姆达尼「煽动仇恨」。"
+      "summary": "以色列总理内塔尼亚胡在纽约市长Zohran Mamdani访美前指责其「煽动仇恨」。"
     },
     {
       "sourceId": "aljazeera",
@@ -4603,7 +4544,7 @@
       "publishedAt": "2026-07-27T08:09:54.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "数十亿美元流入少数几家领导军事人工智能转型的公司。"
+      "summary": "数十亿美元流入少数几家领先企业，这些公司正推动军事领域的AI变革。"
     },
     {
       "sourceId": "aljazeera",
@@ -4613,7 +4554,7 @@
       "publishedAt": "2026-07-27T07:40:52.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "塔代伊·波加查第五次赢得环法自行车赛冠军，追平历史纪录，这是他连续第三次获胜。"
+      "summary": "斯洛文尼亚车手塔德伊·波加查赢得2026年环法自行车赛，实现三连冠并追平历史纪录，第五次夺冠。"
     },
     {
       "sourceId": "aljazeera",
@@ -4622,8 +4563,7 @@
       "excerpt": "A dramatic rise in export permissions marks the latest twist in Germany's approach to ally Israel.",
       "publishedAt": "2026-07-27T07:20:07.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "德国对以色列的武器出口许可证大幅增加，重点集中在潜艇项目上，显示其对盟友以色列政策的转折。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
